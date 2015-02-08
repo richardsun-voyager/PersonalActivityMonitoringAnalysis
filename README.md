@@ -6,7 +6,7 @@ consists of two months of data from an anonymous individual collected during the
  5 minute intervals each day.
  
  The tasks of this assignment involves are:
- 1.reading the original data.
+ 1.Read the original data.
  2.Calculate the mean total number of steps taken each date.
  3.Calculate the average daily activity pattern.
  4.Deal with missing values, replace them with mean values.
